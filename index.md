@@ -8,7 +8,7 @@ country: India
 meetup-group:
 
 ---
-https://github.com/OWASP/www-chapter-bharati-vidyapeeth-college-of-engineering-student-chapter/blob/main/assets/images/owaspbvducoep.png
+<img src=".assets/images/owaspbvducoep.png"/>
 
 
 <div style='color:red;'>
