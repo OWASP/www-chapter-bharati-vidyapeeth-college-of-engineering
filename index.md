@@ -30,13 +30,15 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-At Bharati Vidyapeeth (Deemed to be University) College of Engineering,Pune, we are proud to launch our OWASP Student Chapter, a community dedicated to fostering cybersecurity awareness, ethical hacking, and secure coding practices.
+The OWASP Student Chapter at Bharati Vidyapeeth Deemed University College of Engineering, Pune (BVDUCOE) is a student-driven initiative dedicated to fostering a culture of cybersecurity awareness, research, and innovation.
 
-Led by Student Leaders Ankit and Aaditya Gautam, under the guidance of Faculty Advisor Prof. Gajanan V. Bhole, our mission is to empower students with hands-on experience in web application security through hackathons, workshops, tech talks, and CTFs (Capture The Flag competitions).
+Established and led by Student Leaders Ankit and Aaditya Gautam, under the guidance of Faculty Advisor Prof. Gajanan V. Bhole, the chapter aims to create a dynamic learning environment where students can explore the fundamentals and advanced concepts of web application security, ethical hacking, and secure coding practices.
 
-Whether you are a beginner or an advanced security enthusiast, this chapter serves as a collaborative platform to learn, innovate, and contribute to the ever-evolving field of cybersecurity.
+As an official affiliate of the Open Web Application Security Project (OWASP), our chapter provides a platform for hands-on learning through workshops, technical talks, hackathons, Capture The Flag (CTF) competitions, and industry collaborations. We strive to bridge the gap between academia and industry by engaging students with real-world security challenges.
 
-Join us in building a secure digital future, where knowledge is shared, skills are honed, and cybersecurity is strengthened. Let's make the web a safer place—one line of secure code at a time!
+By bringing together a diverse group of enthusiastic learners, security professionals, and researchers, we aim to cultivate a strong cybersecurity community within our institution. Our vision is to equip students with the knowledge, skills, and ethical mindset required to combat modern cybersecurity threats and contribute meaningfully to the field.
+
+Join us as we build a more secure digital future, one step at a time.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
