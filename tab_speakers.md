@@ -9,7 +9,7 @@ tags: BVDUCOEP
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP TIET meetup? [Contact Us](mailto:prajit.sengupta@owasp.org)
+Would you like to speak on the upcoming OWASP BVDUCOEP meetup? [Contact Us](mailto:ankit.mishra@owasp.org)
 
 **Email Format :**
 
