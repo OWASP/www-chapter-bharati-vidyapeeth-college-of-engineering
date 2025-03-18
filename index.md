@@ -8,7 +8,7 @@ country: India
 meetup-group:
 
 ---
-<img src=".assets/images/owaspbvducoep.png"/>
+<img src="assets/owaspbvducoep.png"/>
 
 
 <div style='color:red;'>
