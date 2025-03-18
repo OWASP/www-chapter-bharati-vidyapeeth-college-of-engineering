@@ -8,7 +8,7 @@ country: India
 meetup-group:
 
 ---
-![owasp-open-web-application-security-project9617](https://github.com/user-attachments/assets/29d5fe0b-32df-415c-98f0-07ff082f0483)
+https://github.com/OWASP/www-chapter-bharati-vidyapeeth-college-of-engineering-student-chapter/blob/main/assets/images/owaspbvducoep.png
 
 
 <div style='color:red;'>
