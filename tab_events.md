@@ -7,3 +7,4 @@ tags: BVDUCOEP
 ---
 
 ## Upcoming Events
+ **COMING SOON**
