@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Bharati Vidyapeeth College of Engineering Student Chapter
-tags: example-tag
+title: OWASP Bharati Vidyapeeth (Deemed to be University) College of Engineering 
+tags: BVDUCOE PUNE
 region: Asia
 country: India
 meetup-group:
