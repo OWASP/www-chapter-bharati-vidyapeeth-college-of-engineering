@@ -62,7 +62,7 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+Include some information here about your chapter Hello
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
