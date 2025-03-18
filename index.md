@@ -30,7 +30,13 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+At Bharati Vidyapeeth (Deemed to be University) College of Engineering,Pune, we are proud to launch our OWASP Student Chapter, a community dedicated to fostering cybersecurity awareness, ethical hacking, and secure coding practices.
+
+Led by Student Leaders Ankit and Aaditya Gautam, under the guidance of Faculty Advisor Prof. Gajanan V. Bhole, our mission is to empower students with hands-on experience in web application security through hackathons, workshops, tech talks, and CTFs (Capture The Flag competitions).
+
+Whether you are a beginner or an advanced security enthusiast, this chapter serves as a collaborative platform to learn, innovate, and contribute to the ever-evolving field of cybersecurity.
+
+Join us in building a secure digital future, where knowledge is shared, skills are honed, and cybersecurity is strengthened. Let's make the web a safer place—one line of secure code at a time!
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
