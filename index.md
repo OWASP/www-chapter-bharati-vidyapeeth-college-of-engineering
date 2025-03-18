@@ -32,7 +32,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 ## Welcome
 The OWASP Student Chapter at Bharati Vidyapeeth (Deemed to be University) College of Engineering,Pune (BVDUCOE) is a student-driven initiative dedicated to fostering a culture of cybersecurity awareness, research, and innovation.
 
-Established and led by Student Leaders Ankit and Aaditya Gautam, under the guidance of Faculty Advisor Prof. Gajanan V. Bhole, the chapter aims to create a dynamic learning environment where students can explore the fundamentals and advanced concepts of web application security, ethical hacking, and secure coding practices.
+Established and led by **Student Leaders Ankit and Aaditya Gautam**, under the guidance of **Faculty Advisor Prof. Gajanan V. Bhole**, the chapter aims to create a dynamic learning environment where students can explore the fundamentals and advanced concepts of web application security, ethical hacking, and secure coding practices.
 
 As an official affiliate of the Open Web Application Security Project (OWASP), our chapter provides a platform for hands-on learning through workshops, technical talks, hackathons, Capture The Flag (CTF) competitions, and industry collaborations. We strive to bridge the gap between academia and industry by engaging students with real-world security challenges.
 
