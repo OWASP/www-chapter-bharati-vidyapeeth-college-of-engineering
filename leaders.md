@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Prof. Gajanan V. Bhole](mailto:gvbhole@bvucoep.edu.in)
+* [Ankit Mishra](mailto:ankitkaran666@gmail.com)
+* [Aaditya Gautam](mailto:aadityagautam3980@gmail.com)
