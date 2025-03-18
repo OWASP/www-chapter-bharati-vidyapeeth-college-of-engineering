@@ -30,7 +30,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-The OWASP Student Chapter at Bharati Vidyapeeth Deemed University College of Engineering, Pune (BVDUCOE) is a student-driven initiative dedicated to fostering a culture of cybersecurity awareness, research, and innovation.
+The OWASP Student Chapter at Bharati Vidyapeeth (Deemed to be University) College of Engineering,Pune (BVDUCOE) is a student-driven initiative dedicated to fostering a culture of cybersecurity awareness, research, and innovation.
 
 Established and led by Student Leaders Ankit and Aaditya Gautam, under the guidance of Faculty Advisor Prof. Gajanan V. Bhole, the chapter aims to create a dynamic learning environment where students can explore the fundamentals and advanced concepts of web application security, ethical hacking, and secure coding practices.
 
