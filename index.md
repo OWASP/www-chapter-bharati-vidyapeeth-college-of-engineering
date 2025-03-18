@@ -48,27 +48,21 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+### Upcoming Events
+
+We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Channels ... :)
+
+
+## CONNECT WITH US!
+
+Follow and Support us on
+
+ <a href="https://www.instagram.com/owasp_bvducoep?=" target="_blank" ><img width = "20" height = "20" src ="assets/instagram-brands.svg"/> <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
+ <a href="https://www.youtube.com/channel/UC_Qd7v56QH7UKp3u9Mu6Ksg" target="_blank" > <img width = "20" height = "20" src ="./assets/images/youtube-brands.svg"/> <span style = "font-family:sans-serif">  YouTube </span></a> <br/>
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-<!-- You should delete this comment
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
 ## Welcome
 Include some information here about your chapter Hello
 
