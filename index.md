@@ -40,4 +40,4 @@ We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Cha
 Follow and Support us on
 
  <a href="https://www.instagram.com/owasp_bvducoep?=" target="_blank" ><img width = "20" height = "20" src ="assets/instagram-brands.svg"/> <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
- <a href="https://www.youtube.com/channel/UC_Qd7v56QH7UKp3u9Mu6Ksg" target="_blank" > <img width = "20" height = "20" src ="assets/youtube-brands.svg"/> <span style = "font-family:sans-serif">  YouTube </span></a> <br/>
+
