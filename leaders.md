@@ -1,5 +1,5 @@
 ### Leaders
-<img width = "50" height = "50" src="assets/sir.png"/>
+<img width = "250" height = "250" src="assets/sir-new.jpeg"/>
 * [Prof. Gajanan V. Bhole](mailto:gajanan.vbhole@owasp.org) -  Faculty Advisor 
  <img src="assets/me.png"/>
 * [Ankit](mailto:ankit.mishra@owasp.org) 
