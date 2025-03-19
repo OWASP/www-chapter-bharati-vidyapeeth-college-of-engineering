@@ -1,5 +1,5 @@
 ### Bharati Vidyapeeth College of Engineering Student Chapter Information
-* Provide Group Information
+<img src="assets/Untitled design (2).png"/> 
 
 ### Social Links
 * [Instagram](#https://www.instagram.com/owasp_bvducoep/#)
