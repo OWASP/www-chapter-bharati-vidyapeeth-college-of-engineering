@@ -3,6 +3,6 @@
 
 ### Social Links
 * [Instagram](#https://www.instagram.com/owasp_bvducoep/#)
-* [Meetup](#)
+* [Meetup](#https://www.meetup.com/owasp-bharati-vidyapeeth-college-of-engineering-chapter/)
 
 
