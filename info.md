@@ -2,7 +2,7 @@
 <img src="assets/Untitled design (2).png"/> 
 
 ### Social Links
-* [Instagram](#https://www.instagram.com/owasp_bvducoep/#)
-* [Meetup](#https://www.meetup.com/owasp-bharati-vidyapeeth-college-of-engineering-chapter/)
+* [Instagram](https://www.instagram.com/owasp_bvducoep/)
+* [Meetup](https://www.meetup.com/owasp-bharati-vidyapeeth-college-of-engineering-chapter/)
 
 
