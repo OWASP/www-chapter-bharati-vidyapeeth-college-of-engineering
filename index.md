@@ -40,4 +40,5 @@ We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Cha
 Follow and Support us on
 
  <a href="https://www.instagram.com/owasp_bvducoep?=" target="_blank" ><img width = "20" height = "20" src ="assets/instagram-brands.svg"/> <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
+<a href="https://www.linkedin.com/company/owasp-owasp-student-chapter-bv-du-coep/" target="_blank" > <img width = "20" height = "20" src ="assets/linkedin-brands.svg"/>  <span style = "font-family:sans-serif">  Linkedin </span></a> <br/>
 
